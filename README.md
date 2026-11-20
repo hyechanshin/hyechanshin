@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**hyechanshin/hyechanshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical account manager based in Finland. I work where customers, support and engineering meet, turning messy problems into clear processes.
 
-Here are some ideas to get you started:
+**What I'm working on**
+- 🔐 **[nfc-verify](https://github.com/hyechanshin/nfc-verify)**: Full-stack NFC authentication platform (NTAG424 DNA, cryptographic verification, scan history)
+- 🎓 M.Sc. studies in Digital Systems & Service Development
+- 🤖 Exploring AI in service operations and IT service management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Background**
+ITIL 4 · Incident management · Customer success · 42 network coding school alumnus
+
+**Stack I've used**
+TypeScript · React · Node.js · MongoDB · PHP/Laravel · C#/Unity
+
+🌐 Korean · English · Finnish
