@@ -8,7 +8,7 @@ Technical account manager based in Finland. I work where customers, support and 
 - 🤖 Exploring AI in service operations and IT service management
 
 **Background**
-ITIL 4 · Incident management · Customer success · 42 network coding school alumnus
+ITIL 4 · Incident management · Customer success · MDM
 
 **Stack I've used**
 TypeScript · React · Node.js · MongoDB · PHP/Laravel · C#/Unity
